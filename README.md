@@ -1,3 +1,5 @@
+# the original repo: https://github.com/slapperwan/gh4a
+
 <img alt="Octodroid" align="right" src="https://raw.githubusercontent.com/slapperwan/gh4a/master/app/src/main/res/drawable-xxhdpi/octodroid.png">
 
 OctoDroid
